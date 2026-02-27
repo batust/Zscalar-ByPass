@@ -1,2 +1,2 @@
 # Zscalar-ByPass
-Using HuggingFace API in corporate laps by bypassing Zscalar
+Using HuggingFace, OpenRouter, Groq APIs in corporate laps by bypassing Zscalar
