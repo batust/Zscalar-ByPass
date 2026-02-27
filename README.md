@@ -1,4 +1,5 @@
-** Test this with other model ids from HuggingFace too
+## Using HuggingFace, OpenRouter, Groq APIs in corporate laps by bypassing Zscalar
+## Test this with other model ids from HuggingFace too
 
 
 A simple command-line chatbot that talks to **Qwen/Qwen2.5-7B-Instruct** via the [HuggingFace Inference Providers API](https://huggingface.co/docs/inference-providers/index), with built-in support for **Zscaler SSL inspection** on corporate networks.
